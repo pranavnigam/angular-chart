@@ -1,6 +1,6 @@
 {
   "name": "angular-chart",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -42,5 +42,17 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavnigam/angular-chart.git"
+  },
+  "author": "Pranav Nigam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavnigam/angular-chart/issues"
+  },
+  "homepage": "https://github.com/pranavnigam/angular-chart#readme"
 }
