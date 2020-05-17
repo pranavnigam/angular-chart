@@ -1,3 +1,17 @@
 <div style="width: 90%;">
     <canvas id="canvas"></canvas>
+    <div class="row mx-0 mt-5">
+        <div class="col-lg-3">
+            <button class="btn btn-primary" (click)="changeChart(1)">Bar Chart</button>
+        </div>
+        <div class="col-lg-3">
+            <button class="btn btn-success" (click)="changeChart(2)">Pie Chart</button>
+        </div>
+        <div class="col-lg-3">
+            <button class="btn btn-danger" (click)="changeChart(3)">Line Chart</button>
+        </div>
+        <div class="col-lg-3">
+            <button class="btn btn-warning" (click)="changeChart(4)">Doughnut Chart</button>
+        </div>
+    </div>
 </div>
